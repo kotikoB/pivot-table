@@ -3,7 +3,7 @@
 }
 
 .state {
-    padding: 0 10px;
+    text-align: left;
 }
 
 .header-container {
@@ -22,7 +22,8 @@
 
 .header-item {
     flex: 1;
-    padding: 0 10px 0 10px;
+    padding: 0 30px;
+    text-align: left;
     color: #fafafa;
 }
 
@@ -67,5 +68,6 @@
 }
 .value {
     flex: 1;
-    text-align: right;
+    text-align: left;
+    padding: 0 30px;
 }
