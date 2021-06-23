@@ -36,3 +36,9 @@ Your app is ready to be deployed!
 ### Posssible next steps?
 
 - Make this into its own library
+
+### Assumptions made
+
+- Values in the table cells are the profit madde in each state that correspond to the respective products
+
+- Functionality over form
